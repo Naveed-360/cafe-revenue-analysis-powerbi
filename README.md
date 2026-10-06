@@ -24,8 +24,7 @@
     <td width="1440">
       <h2 align="center">Executive Summary</h2>
       <div align="center">
-        <img width="700px" src="screenshots/revenue-by-item-and-location.png" />
-        <img width="700px" src="screenshots/revenue-by-quarter-and-location.png" />
+        <img width="1996" height="1170" alt="Screenshot 2026-10-06 132504" src="https://github.com/user-attachments/assets/e866344b-8823-4404-be35-db00a8c6fd60" />
       </div>
       <h4>
         <ul>
