@@ -1,4 +1,4 @@
-<img width="100%" height="5%" alt="logo" src="https://github.com/user-attachments/assets/f38453ef-3880-4d4b-a615-c0679c429bf0" />
+<img width="320px"  alt="logo" src="https://github.com/user-attachments/assets/f38453ef-3880-4d4b-a615-c0679c429bf0" />
 
 <div align="center">
   <!-- Replace this src with your own hosted logo image (Cloudinary, Imgur, or a file in your repo's /assets folder) -->
