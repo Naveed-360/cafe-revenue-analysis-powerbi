@@ -4,7 +4,7 @@
   <img width="600px" alt="Amber   Oak Café Logo" src="https://github.com/user-attachments/assets/7726d4dd-ed78-4da7-885a-b8c9b5a8f2e7" />
 </div>
 
-<h1 align="center">Amber &amp; Oak Café — Revenue Performance Report</h1>
+<h1 align="center">Amber &amp; Oak Cafe Revenue Performance Report</h1>
 
 <table align="center">
   <tr>
@@ -142,14 +142,3 @@
     </td>
   </tr>
 </table>
-
-<!--
-SCREENSHOT CHECKLIST — export these from Power BI into a /screenshots folder,
-and your own logo into /assets, filenames must match exactly:
-
-1. assets/amber-oak-logo.png        — your café logo
-2. screenshots/revenue-by-item-and-location.png   — full year, no filters
-3. screenshots/revenue-by-quarter-and-location.png — full year, no filters
-4. screenshots/cake-quarterly-trend.png            — quarter/location line chart, filtered to Cake
-5. screenshots/q4-revenue-by-item.png              — item/location bar chart, filtered to Q4
--->
