@@ -1,8 +1,7 @@
 
 
 <div align="center">
-  <img width="320px" align = alt="logo" src="https://github.com/user-attachments/assets/f38453ef-3880-4d4b-a615-c0679c429bf0" />
-  <img width="320px" src="assets/amber-oak-logo.png" />
+  <img width="1536" height="1024" alt="Amber   Oak Café Logo" src="https://github.com/user-attachments/assets/7726d4dd-ed78-4da7-885a-b8c9b5a8f2e7" />
 </div>
 
 <h1 align="center">Amber &amp; Oak Café — Revenue Performance Report</h1>
