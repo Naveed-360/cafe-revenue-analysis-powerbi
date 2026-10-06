@@ -13,7 +13,6 @@
       <body>
         <strong>Amber &amp; Oak Café</strong> is a quick-service café operating two order channels, In-store and Takeaway, serving a menu of eight core items: Salad, Sandwich, Smoothie, Juice, Cake, Coffee, Tea, and Cookie. This analysis covers <strong>2023</strong> transaction data and was built to give café management a clear view of which items, channels, and periods drive revenue, and where the underlying sales data itself needs better capture at the point of sale. <br>
         <br>
-        <strong>Dataset:</strong> <a href="https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training">Dirty Cafe Sales Dataset</a> (Kaggle), 10,000 synthetic transaction records used as a practice dataset, deliberately containing missing values and invalid placeholder entries (<code>ERROR</code>, <code>UNKNOWN</code>) to simulate real-world data quality issues.
       </body>
     </td>
   </tr>
