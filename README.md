@@ -60,7 +60,7 @@
       <h2 align="center">Insight Deep-Dive</h2>
       <h3>Sales Trend</h3>
       <div align="center">
-        <img width="700px" src="screenshots/revenue-by-quarter-and-location.png" />
+        <img width="1994" height="1162" alt="Screenshot 2026-10-06 132905" src="https://github.com/user-attachments/assets/cd9a4d86-4b44-453d-83f0-4cf0ea9489b0" />
       </div>
       <h4>
         <ul>
