@@ -70,8 +70,8 @@
       </h4>
       <h3>Product Performance</h3>
       <div align="center">
-        <img width="700px" src="screenshots/cake-quarterly-trend.png" />
-        <img width="700px" src="screenshots/q4-revenue-by-item.png" />
+        <img width="700px" alt="Screenshot 2026-10-06 133425" src="https://github.com/user-attachments/assets/aa58cfd4-64ef-499d-b31f-480c9d37d873" />
+        <img width="700px" alt="Screenshot 2026-10-06 133701" src="https://github.com/user-attachments/assets/01c5f8f3-874c-48bb-a3c5-29f78c8f7d3d" />
       </div>
       <table align="center">
         <tr><th>Rank</th><th>Item</th><th>In-store</th><th>Takeaway</th></tr>
