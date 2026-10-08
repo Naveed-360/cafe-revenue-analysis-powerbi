@@ -104,7 +104,7 @@
       <h4>
         <ul>
           <li>Feature and protect Salad's position as the top revenue driver, confirmed both as the overall leader and the Q4 leader specifically.</li>
-          <li>Investigate Cake's Q3→Q4 decline (−8.8%, confirmed). A Q4 promotion or seasonal variant could offset the drop before it compounds into next year.</li>
+          <li>Investigate Cake's Q3→Q4 decline (−8.8%). A Q4 promotion or seasonal variant could offset the drop before it compounds into next year.</li>
           <li>Investigate Coffee's pricing: high order volume, low revenue contribution, a candidate for a modest price adjustment or an add-on bundle.</li>
           <li>Reassess Cookie's place on the menu, the lowest performer on both volume and revenue all year.</li>
         </ul>
